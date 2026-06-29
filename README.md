@@ -43,7 +43,10 @@ OBS: as matrizes de led foram emprestadas pelo Simões, e cabos jumper macho x m
 
 ![Diagrama do Circuito](./imagens/wokwi.png)
 
-Utilizamos o Wokwi porque o TinkerCAD não possui as matrizes de led 8x8 para simulação. O zip com o código e os arquivos também está disponível no repositório, se desejado (basta copiar os conteúdos do json e do sketch para a área respectiva no wokwi).
+Utilizamos o Wokwi porque o TinkerCAD não possui as matrizes de led 8x8 para simulação. O zip com o código e os arquivos também está disponível no repositório, se desejado (basta copiar os conteúdos do json e do sketch para a área respectiva no Wokwi).
+
+[Arquivo ZIP](Arduíno%20Nano%20-%20Tetris.zip)
+
 
 ---
 
