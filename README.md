@@ -49,11 +49,20 @@ Utilizamos o Wokwi porque o TinkerCAD não possui as matrizes de led 8x8 para si
 
 ## 📸 Fotos do Circuito Montado
 
-### Protoboard
+### Arduino
 
-![Protoboard](./imagens/arduino.jpg)
+![Arduino](./imagens/arduino.png)
 
-![Protoboard 2](./imagens/arduino2.jpg)
+### Controle (botões)
+
+![Controle](./imagens/controle.png)
+
+### Matrizes de Led
+
+
+![Matriz](./imagens/matriz.png)
+
+
 
 
 ---
